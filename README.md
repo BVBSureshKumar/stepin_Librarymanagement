@@ -1,4 +1,3 @@
-#stepin_calendar
 # Library Book Management system
 
 
@@ -12,3 +11,7 @@ Folder             | Description
 `5_Report`         | Any reports related to the project
 `6_ImagesAndVideos`| images of the implementation
 `7_Other`          | Any other files
+
+
+https://www.code-inspector.com/project/28043/score/svg
+https://www.code-inspector.com/project/28043/status/svg
