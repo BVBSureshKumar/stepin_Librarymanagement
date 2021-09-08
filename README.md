@@ -16,3 +16,5 @@ Folder             | Description
 https://www.code-inspector.com/project/28043/score/svg
 
 https://www.code-inspector.com/project/28043/status/svg
+
+https://app.codacy.com/gh/BVBSureshKumar/stepin_Librarymanagement/dashboard
