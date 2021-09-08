@@ -5,6 +5,9 @@
 
 [![Unit Testing](https://github.com/BVBSureshKumar/stepin_Librarymanagement/actions/workflows/unit-test.yml/badge.svg)](https://github.com/BVBSureshKumar/stepin_Librarymanagement/actions/workflows/unit-test.yml)
 
+[![cppcheck-action](https://github.com/BVBSureshKumar/stepin_Librarymanagement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/BVBSureshKumar/stepin_Librarymanagement/actions/workflows/cppcheck.yml)
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
